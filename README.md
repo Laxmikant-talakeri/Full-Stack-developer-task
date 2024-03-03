@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # PDF Extractor
 
@@ -41,3 +42,6 @@ To run this project, you will need to add the following environment variables to
 ## Run Locally
 
 
+=======
+# Full-Stack-developer-task
+>>>>>>> f2d97b0011ede71de06441e3c7176378413e8daa
